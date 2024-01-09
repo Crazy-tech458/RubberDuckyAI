@@ -1,7 +1,7 @@
 import openai
 # pass the api key
 
-openai.api_key = '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'
+openai.api_key = ''
 
 # define prompt
 message = {'role': 'user', 'content': 'why is my website down?'}
